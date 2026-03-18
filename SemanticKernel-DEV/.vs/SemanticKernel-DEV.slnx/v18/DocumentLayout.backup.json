@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|c:\\users\\umut oku\\source\\repos\\semantickernel-mcp\\semantickernel-dev\\semantickernel-dev\\onnx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|solutionrelative:semantickernel-dev\\onnx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|c:\\users\\umut oku\\source\\repos\\semantickernel-mcp\\semantickernel-dev\\semantickernel-dev\\ollama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|solutionrelative:semantickernel-dev\\ollama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|c:\\users\\umut oku\\source\\repos\\semantickernel-mcp\\semantickernel-dev\\semantickernel-dev\\traficmodul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|solutionrelative:semantickernel-dev\\traficmodul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|c:\\users\\umut oku\\source\\repos\\semantickernel-mcp\\semantickernel-dev\\semantickernel-dev\\semantickernel-dev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|solutionrelative:semantickernel-dev\\semantickernel-dev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|c:\\users\\umut oku\\source\\repos\\semantickernel-mcp\\semantickernel-dev\\semantickernel-dev\\lmstudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|solutionrelative:semantickernel-dev\\lmstudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|c:\\users\\umut oku\\source\\repos\\semantickernel-mcp\\semantickernel-dev\\semantickernel-dev\\deepseekai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|solutionrelative:semantickernel-dev\\deepseekai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|c:\\users\\umut oku\\source\\repos\\semantickernel-mcp\\semantickernel-dev\\semantickernel-dev\\huggingface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|solutionrelative:semantickernel-dev\\huggingface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|c:\\users\\umut oku\\source\\repos\\semantickernel-mcp\\semantickernel-dev\\semantickernel-dev\\openaigen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|solutionrelative:semantickernel-dev\\openaigen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|c:\\users\\umut oku\\source\\repos\\semantickernel-mcp\\semantickernel-dev\\semantickernel-dev\\azureopenai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|solutionrelative:semantickernel-dev\\azureopenai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|c:\\users\\umut oku\\source\\repos\\semantickernel-mcp\\semantickernel-dev\\semantickernel-dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BE0D3-5635-4307-661E-7668C1379EA0}|SemanticKernel-DEV\\SemanticKernel-DEV.csproj|solutionrelative:semantickernel-dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TraficModul.cs",
+              "DocumentMoniker": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\TraficModul.cs",
+              "RelativeDocumentMoniker": "SemanticKernel-DEV\\TraficModul.cs",
+              "ToolTip": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\TraficModul.cs*",
+              "RelativeToolTip": "SemanticKernel-DEV\\TraficModul.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T22:41:55.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LMStudio.cs",
+              "DocumentMoniker": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\LMStudio.cs",
+              "RelativeDocumentMoniker": "SemanticKernel-DEV\\LMStudio.cs",
+              "ToolTip": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\LMStudio.cs",
+              "RelativeToolTip": "SemanticKernel-DEV\\LMStudio.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T22:26:58.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ollama.cs",
+              "DocumentMoniker": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\Ollama.cs",
+              "RelativeDocumentMoniker": "SemanticKernel-DEV\\Ollama.cs",
+              "ToolTip": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\Ollama.cs",
+              "RelativeToolTip": "SemanticKernel-DEV\\Ollama.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T13:00:21.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SemanticKernel-DEV.csproj",
+              "DocumentMoniker": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\SemanticKernel-DEV.csproj",
+              "RelativeDocumentMoniker": "SemanticKernel-DEV\\SemanticKernel-DEV.csproj",
+              "ToolTip": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\SemanticKernel-DEV.csproj",
+              "RelativeToolTip": "SemanticKernel-DEV\\SemanticKernel-DEV.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T11:59:43.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Onnx.cs",
+              "DocumentMoniker": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\Onnx.cs",
+              "RelativeDocumentMoniker": "SemanticKernel-DEV\\Onnx.cs",
+              "ToolTip": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\Onnx.cs",
+              "RelativeToolTip": "SemanticKernel-DEV\\Onnx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowCwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:26:48.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HuggingFace.cs",
+              "DocumentMoniker": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\HuggingFace.cs",
+              "RelativeDocumentMoniker": "SemanticKernel-DEV\\HuggingFace.cs",
+              "ToolTip": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\HuggingFace.cs",
+              "RelativeToolTip": "SemanticKernel-DEV\\HuggingFace.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:16:07.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeepSeekAI.cs",
+              "DocumentMoniker": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\DeepSeekAI.cs",
+              "RelativeDocumentMoniker": "SemanticKernel-DEV\\DeepSeekAI.cs",
+              "ToolTip": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\DeepSeekAI.cs",
+              "RelativeToolTip": "SemanticKernel-DEV\\DeepSeekAI.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:59:58.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OpenAIGen.cs",
+              "DocumentMoniker": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\OpenAIGen.cs",
+              "RelativeDocumentMoniker": "SemanticKernel-DEV\\OpenAIGen.cs",
+              "ToolTip": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\OpenAIGen.cs",
+              "RelativeToolTip": "SemanticKernel-DEV\\OpenAIGen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T19:14:29.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AzureOpenAI.cs",
+              "DocumentMoniker": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\AzureOpenAI.cs",
+              "RelativeDocumentMoniker": "SemanticKernel-DEV\\AzureOpenAI.cs",
+              "ToolTip": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\AzureOpenAI.cs",
+              "RelativeToolTip": "SemanticKernel-DEV\\AzureOpenAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T19:12:26.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\Program.cs",
+              "RelativeDocumentMoniker": "SemanticKernel-DEV\\Program.cs",
+              "ToolTip": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernel-MCP\\SemanticKernel-DEV\\SemanticKernel-DEV\\Program.cs",
+              "RelativeToolTip": "SemanticKernel-DEV\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:04:06.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
