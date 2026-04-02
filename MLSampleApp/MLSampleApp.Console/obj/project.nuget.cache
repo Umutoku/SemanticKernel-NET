@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "iBRRAYlGuhg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Umut Oku\\source\\repos\\SemanticKernelDemos\\MLSampleApp\\MLSampleApp.Console\\MLSampleApp.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Umut Oku\\.nuget\\packages\\microsoft.ml\\3.0.1\\microsoft.ml.3.0.1.nupkg.sha512",
+    "C:\\Users\\Umut Oku\\.nuget\\packages\\microsoft.ml.cpumath\\3.0.1\\microsoft.ml.cpumath.3.0.1.nupkg.sha512",
+    "C:\\Users\\Umut Oku\\.nuget\\packages\\microsoft.ml.dataview\\3.0.1\\microsoft.ml.dataview.3.0.1.nupkg.sha512",
+    "C:\\Users\\Umut Oku\\.nuget\\packages\\microsoft.ml.fasttree\\3.0.1\\microsoft.ml.fasttree.3.0.1.nupkg.sha512",
+    "C:\\Users\\Umut Oku\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Umut Oku\\.nuget\\packages\\system.codedom\\4.5.0\\system.codedom.4.5.0.nupkg.sha512",
+    "C:\\Users\\Umut Oku\\.nuget\\packages\\system.numerics.tensors\\8.0.0\\system.numerics.tensors.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
